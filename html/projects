@@ -6,15 +6,28 @@
       The Universe Projects
     </title>
   </head>
-  
-  
-  <table>
-    <tr>
+  <ol>
+    <li>
+      3d printing (Anet A8)(Prusi i3 clone)
+    </li>
     
-    </tr>
-  
-  </table>
-  
+    <li>
+      Web dev with github pages
+    </li>
+    
+    <li>
+      my grandfathers clock
+    </li>
+    
+    <li>
+      Home Automation
+    </li>
+    
+    <li>
+      Pi-Hole AD Blocker
+    </li>
+    
+  </ol>
   
   
   
